@@ -21,6 +21,34 @@ I used these
 * https://www.thingiverse.com/thing:5124692
 * https://www.thingiverse.com/thing:5348910
 
+## WHY
+
+
+### General
+
+* inverted electronics
+* shorter reverse bowden
+* fast preheating print area
+* over bed static fans (RSCD)
+* quick and easy underbed fan replacements
+* print on eye level, reduce back bending/pain
+* additional bottom storage when not printing near max Z
+    * filament storage
+    * plate storage
+    * finished plates /parts can slowly cooldown while printing the next
+* easier to tune, less belts to tension equally
+* static AB motors easy to extend with dampers, fans or replace for longer
+* 250 build can have a internal Spoolroller even with 260 bed (see mods)
+
+
+### vs. Switchwire
+* stable xy gantry
+* internal spool holder
+* no Z dragchain required and still looking neat
+* waaaay more mods than SW
+
+
+
 ## FAQ
 
 * What can i reuse?
@@ -28,12 +56,9 @@ I used these
 
 ## Mods
 
-### Definitly wanted
-
 * Trident inverted Trident Inverted Electronics
     * https://mods.vorondesign.com/detail/pXkXHVIUbqSWqQKJISczw
-
-### For reusing things
-
+* Internal Spoolroller
+    * https://www.printables.com/model/584995-internal-spoolholder-for-2020-extrusion
 * Reusing leadscrew & coupler to not lose Z height
     * https://www.printables.com/model/644553-trident-motor-spacer-standoffs-for-leadscrew-coupl
