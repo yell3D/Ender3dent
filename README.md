@@ -21,6 +21,11 @@ I used these
 * https://www.thingiverse.com/thing:5124692
 * https://www.thingiverse.com/thing:5348910
 
+## FAQ
+
+* What can i reuse?
+   * everything that is not sheetmetal or vwheels and preferable not the frame
+
 ## Mods
 
 ### Definitly wanted
