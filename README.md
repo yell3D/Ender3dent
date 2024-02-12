@@ -79,3 +79,20 @@ Trident selfsource
     * https://www.printables.com/model/584995-internal-spoolholder-for-2020-extrusion
 * Reusing leadscrew & coupler to not lose Z height
     * https://www.printables.com/model/644553-trident-motor-spacer-standoffs-for-leadscrew-coupl
+
+
+## Galery
+
+How it all started and why you should buy extrusions, they are cheap
+![VT.979 the original](/Gallery/vt.979_yell_pls_dont_buy_a_frame_kit_.jpg "VT.979 the original")
+> Fun fact 1111 & 1112 battled for the 1111 serial
+> technically 1112 is Voron Trident #1111 as they start from 0
+
+![VT.1111 Kignis](/Gallery/vt.1111_kignis.jpg "VT.1111 Kignis")
+![VT.1112 Yell](/Gallery/vt.1112_yell "VT.1112 Yell")
+
+Ender 6 are also welcome. (Hint we dont have a Ender2 and Ender5 conversion yet)
+![VT.1233 Coursin](/Gallery/vt.1233_coursin.jpg "VT.1233 Coursin")
+
+Ender3dent with mgn12 aka Enderwire to Ender3dent conversion showing the need for thicker foam (weather stripes in this case)
+![Enderwire Conversion](/Gallery/EnderwireToEnder3dent_mgn12_.jpg "Enderwire Conversion")
