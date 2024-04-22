@@ -1,5 +1,9 @@
 # Ender3dent
-Gonna build a Voron. Build a Trident
+Gonna build a Voron. Build a Trident.
+
+![Ender3dent Buildguide GIF](https://tenor.com/hZZ1kWYXQ3J.gif)
+
+
 
 
 ## Things to reuse
@@ -64,6 +68,11 @@ Trident selfsource
 * no Z dragchain required and still looking neat
 * waaaay more mods than SW
 
+## But V2 is style, V2 is love
+
+If you absolutely must, then feel free to apply the principal of stuffing Ender parts into different Frame to the V2 frame.
+
+https://github.com/OneHotTake/EndeVOR-2.4
 
 
 ## FAQ
