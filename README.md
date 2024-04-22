@@ -1,9 +1,8 @@
 # Ender3dent
 Gonna build a Voron. Build a Trident.
 
-![Ender3dent Buildguide GIF](https://tenor.com/hZZ1kWYXQ3J.gif)
 
-
+![Ender3dent Buildguide GIF](/Gallery/ender3dent-buildguide.gif "Ender3dent Buildguide GIF")
 
 
 ## Things to reuse
