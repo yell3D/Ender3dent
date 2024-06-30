@@ -78,6 +78,9 @@ https://github.com/OneHotTake/EndeVOR-2.4
 
 * What can i reuse?
    * everything that is not sheetmetal or vwheels and preferable not the frame
+* How to mount the Ender 3 bed?
+   * [bottom](Gallery/PXL_20230406_105018828.jpg)
+   * [top](Gallery/PXL_20230830_124231232.jpg)
 
 ## Mods
 
