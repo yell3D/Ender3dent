@@ -31,11 +31,11 @@ siboor kit:
 €346.44 requires a v2 or pro
 
 Trident selfsource
- 115€ 5xmgn9 + 1xmgn12 (currently overprices, wait for lovers thing to end)
+ 115€ 5xmgn9 + 1xmgn12
   65€ siboor leadscrew stepper (3 pieces, 15€ each)
   60€ frame
   30€ skr pico as secondary mcu
-  50€ Trident screw kit (cheap locally here in metric land tho)
+  50€ Trident screw kit (cheaper in metric land locally)
   15€ 5M Gates belts
   12€ 2x 10pc f695 (are 20 enough?)
    5€ spherical bearings
