@@ -15,6 +15,12 @@ Gonna build a Voron. Build a Trident.
 * Motors, need additional
 * 2 (1) additional leadscrew and coupler. Recommended to buy steppers with integrated PTFE coated leadscrew
 
+get everything else from the official Voron BOM
+
+1. go to https://vorondesign.com/voron_trident
+2. select configurator, make your choices like direct feed, blind joints, 250
+3. hit show or download
+
 
 ### When coming from a Enderwire
 
@@ -23,6 +29,18 @@ I used these
 
 * https://www.thingiverse.com/thing:5124692
 * https://www.thingiverse.com/thing:5348910
+
+### How to build
+
+1. go to https://vorondesign.com/voron_trident
+2. click "Manual"
+3. follow the manual 1:1 except bed mounting
+4. see this for bed mounting, make something yourself or buy a Trident bed
+
+
+* [bottom](Gallery/PXL_20230406_105018828.jpg)
+* [top](Gallery/PXL_20230830_124231232.jpg)
+
 
 ### example price calc
 
@@ -86,16 +104,20 @@ https://github.com/OneHotTake/EndeVOR-2.4
 
 * Trident inverted Trident Inverted Electronics
     * https://mods.vorondesign.com/detail/pXkXHVIUbqSWqQKJISczw
-* Internal Spoolroller
-    * https://www.printables.com/model/584995-internal-spoolholder-for-2020-extrusion
 * Reusing leadscrew & coupler to not lose Z height
     * https://www.printables.com/model/644553-trident-motor-spacer-standoffs-for-leadscrew-coupl
+* Internal Spoolroller
+    * https://www.printables.com/model/584995-internal-spoolholder-for-2020-extrusion
+
 
 
 ## Galery
 
-How it all started and why you should buy extrusions, they are cheap
+### How it all started
+and why you should invest a minuscula amount of money for new extrusions
 ![VT.979 the original](/Gallery/vt.979_yell_pls_dont_buy_a_frame_kit_.jpg "VT.979 the original")
+
+### Ender3dent
 > Fun fact 1111 & 1112 battled for the 1111 serial
 > technically 1112 is Voron Trident #1111 as they start from 0
 
@@ -103,8 +125,15 @@ How it all started and why you should buy extrusions, they are cheap
 ![VT.1112 Yell](/Gallery/vt.1112_yell.jpg "VT.1112 Yell")
 ![Evidences](/Gallery/Evidences.jpg "Evidences")
 
-Ender 6 are also welcome. (Hint we dont have a Ender2 and Ender5 conversion yet)
+### Ender4dent
+![VT.1741 ravenkeeper](/Gallery/vt.1741_ravenkeeper.jpg "VT.1741 ravenkeeper")
+
+### Ender5dent
+build it and DM me on discord °~°
+
+### Ender6dent
 ![VT.1233 Coursin](/Gallery/vt.1233_coursin.jpg "VT.1233 Coursin")
 
+### Other relevant images
 Ender3dent with mgn12 aka Enderwire to Ender3dent conversion showing the need for thicker foam (weather stripes in this case)
 ![Enderwire Conversion](/Gallery/EnderwireToEnder3dent_mgn12_.jpg "Enderwire Conversion")
