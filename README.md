@@ -5,15 +5,7 @@ Gonna build a Voron. Build a Trident.
 ![Ender3dent Buildguide GIF](/Gallery/ender3dent-buildguide.gif "Ender3dent Buildguide GIF")
 
 
-## Things to reuse
-
-* MCU
-   * need a second or
-   * Ebb36 + PitB
-* PSU & AC Inlet
-* Heated bed, need to drill in 2 somewhat straight holes
-* Motors, need additional
-* 2 (1) additional leadscrew and coupler. Recommended to buy steppers with integrated PTFE coated leadscrew
+## BOM
 
 get everything else from the official Voron BOM
 
@@ -21,27 +13,27 @@ get everything else from the official Voron BOM
 2. select configurator, make your choices like direct feed, blind joints, 250
 3. hit show or download
 
-## yeah .. but what can i reuse?
+### yeah .. but what CAN i reuse?
 
 | Part                    | Can reuse                               |
 |-------------------------|-----------------------------------------|
-| mcu                     | yes                                     |
-| leadscrew               | yes                                     |
-| 2nd leadscrew           | yes                                     |
-| stock leadscrew coupler | yes                                     |
-| bed                     | yes                                     |
-| bed sheet               | yes                                     |
-| mcu (but need a second) | yes                                     |
-| steppers                | yes                                     |
-| psu                     | yes                                     |
-| cables some             | yes                                     |
-| raspberry               | yes                                     |
+| Creality mainboard      | yes, but need a second like skr pico    |
+| Leadscrew               | yes                                     |
+| 2nd Leadscrew           | yes                                     |
+| Stock leadscrew coupler | yes, better than the "spring" ones      |
+| Bed heater              | yes                                     |
+| Flexplate               | yes                                     |
+| steppers                | yes, but need more                      |
+| Power Supply            | yes, even the fat one                   |
+| AC Inlet + Switch       | yes, check voron mods                   |
+| Cables                  | yes, except toolhead wiring             |
 | Display                 | Yes if its the monochrome               |
-| custom Extruder         | likely yes, check the many Trident mods |
-| custom Hotend           | likely yes, check the many Trident mods |
-| vwheels                 | no                                      |
-| sheetmetal parts        | no                                      |
-| random screw            | maybe                                   |
+| Raspberry               | yes                                     |
+| Custom Extruder         | likely yes, check the many Trident mods |
+| Custom Hotend           | likely yes, check the many Trident mods |
+| Vwheels                 | no                                      |
+| Sheetmetal Parts        | no                                      |
+| Random screw            | maybe                                   |
 
 
 ### When coming from a Enderwire
