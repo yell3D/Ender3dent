@@ -21,6 +21,28 @@ get everything else from the official Voron BOM
 2. select configurator, make your choices like direct feed, blind joints, 250
 3. hit show or download
 
+## yeah .. but what can i reuse?
+
+| Part                    | Can reuse                               |
+|-------------------------|-----------------------------------------|
+| mcu                     | yes                                     |
+| leadscrew               | yes                                     |
+| 2nd leadscrew           | yes                                     |
+| stock leadscrew coupler | yes                                     |
+| bed                     | yes                                     |
+| bed sheet               | yes                                     |
+| mcu (but need a second) | yes                                     |
+| steppers                | yes                                     |
+| psu                     | yes                                     |
+| cables some             | yes                                     |
+| raspberry               | yes                                     |
+| Display                 | Yes if its the monochrome               |
+| custom Extruder         | likely yes, check the many Trident mods |
+| custom Hotend           | likely yes, check the many Trident mods |
+| vwheels                 | no                                      |
+| sheetmetal parts        | no                                      |
+| random screw            | maybe                                   |
+
 
 ### When coming from a Enderwire
 
@@ -45,9 +67,6 @@ I used these
 ### example price calc
 
 ```
-siboor kit:
-€346.44 requires a v2 or pro
-
 Trident selfsource
  115€ 5xmgn9 + 1xmgn12
   65€ siboor leadscrew stepper (3 pieces, 15€ each)
@@ -58,6 +77,10 @@ Trident selfsource
   12€ 2x 10pc f695 (are 20 enough?)
    5€ spherical bearings
 =352 €  (no panels tho)
+
+Building an Enderwire with Siboor kit instead of a Trident
+€346.44 (requires a Ender3 v2 or pro)
+
 ```
 
 ## WHY
