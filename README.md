@@ -7,17 +7,17 @@ Gonna build a Voron. Build a Trident.
 
 ## BOM
 
-get everything else from the official Voron BOM
 
 1. go to https://vorondesign.com/voron_trident
 2. select configurator, make your choices like direct feed, blind joints, 250
 3. hit show or download
+4. remove parts you already own
 
 ### yeah .. but what CAN i reuse?
 
 | Part                    | Can reuse                               |
 |-------------------------|-----------------------------------------|
-| Creality mainboard      | yes, but need a second like skr pico    |
+| Creality mainboard      | yes, but need a second like a skr       |
 | Leadscrew               | yes                                     |
 | 2nd Leadscrew           | yes                                     |
 | Stock leadscrew coupler | yes, better than the "spring" ones      |
@@ -27,7 +27,7 @@ get everything else from the official Voron BOM
 | Power Supply            | yes, even the fat one                   |
 | AC Inlet + Switch       | yes, check voron mods                   |
 | Cables                  | yes, except toolhead wiring             |
-| Display                 | Yes if its the monochrome               |
+| Display                 | Yes, if its the monochrome              |
 | Raspberry               | yes                                     |
 | Custom Extruder         | likely yes, check the many Trident mods |
 | Custom Hotend           | likely yes, check the many Trident mods |
@@ -39,10 +39,17 @@ get everything else from the official Voron BOM
 ### When coming from a Enderwire
 
 You CAN reuse your existing mgn12, however you need new mounts and thicccc weatherstrips for the panels.
-I used these
+Mgn12 mounts, idk maybe there are others/betters
 
 * https://www.thingiverse.com/thing:5124692
 * https://www.thingiverse.com/thing:5348910
+
+Untested but you could also use 4040 for the Z vertical extrusions, maybe a 2040 in the front to look nice with fridge door mod.
+
+* https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door
+
+While you are at it maybe also replace the extrusions going side way and to the rear with 2040 too for more speeds, just keep the overall dimensions in mind.
+
 
 ### How to build
 
