@@ -17,7 +17,7 @@ Gonna build a Voron. Build a Trident.
 
 | Part                    | Can reuse                               |
 |-------------------------|-----------------------------------------|
-| Creality mainboard      | yes, but need a second like a skr       |
+| Creality mainboard      | yes, but need more stepper, see below   |
 | Leadscrew               | yes                                     |
 | 2nd Leadscrew           | yes                                     |
 | Stock leadscrew coupler | yes, better than the "spring" ones      |
@@ -34,6 +34,26 @@ Gonna build a Voron. Build a Trident.
 | Vwheels                 | no                                      |
 | Sheetmetal Parts        | no                                      |
 | Random screw            | maybe                                   |
+
+
+### Secondary / Primary MCU
+Basically everything with at least 2 stepper driver will work.
+
+Example 1
+* Creality: Z, Z1, Z2
+* Skr Pico: A, B
+* Ebb36   : E
+
+Example 2
+* Creality: Z, Z1, Z2, E
+* ERB V2.0: A, B
+
+Example 3:
+* Manta M5P: Z, Z1, Z2, A, B
+* Ebb36: E
+
+Please notice that same motion stepper should share the same mcu.
+
 
 
 ### When coming from a Enderwire
