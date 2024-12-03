@@ -165,8 +165,11 @@ and why you should invest a minuscula amount of money for new extrusions
 
 ![VT.1111 Kignis](/Gallery/vt.1111_kignis.jpg "VT.1111 Kignis")
 ![VT.1112 Yell](/Gallery/vt.1112_yell.jpg "VT.1112 Yell")
-![Evidences](/Gallery/Evidences.jpg "Evidences")
-![VT.1741 ravenkeeper](/Gallery/vt.1759_wallen.jpg "VT.1759 wallen")
+![vt.1540 hanarius](/Gallery/vt.1540_hanarius.jpg "VT 1540 hanarius")
+![VT.1583 Evidences](/Gallery/vt.1583_evidences.jpg "VT.1583 Evidences")
+![VT.1741 ravenkeeper](/Gallery/vt.1759_wallen.jpg "VT.1759 Wallen")
+![vt.1816 hanarius](/Gallery/vt.1816_hanarius.jpg "VT 1816 hanarius")
+
 
 ### Ender4dent
 ![VT.1741 ravenkeeper](/Gallery/vt.1741_ravenkeeper.jpg "VT.1741 ravenkeeper")
