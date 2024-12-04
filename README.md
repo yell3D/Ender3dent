@@ -25,7 +25,7 @@ Gonna build a Voron. Build a Trident.
 | Flexplate               | yes                                     |
 | steppers                | yes, but need more                      |
 | Power Supply            | yes, even the fat one                   |
-| AC Inlet + Switch       | yes, check voron mods                   |
+| AC Inlet + Switch       | no. Switch must switch all poles for safety                    |
 | Cables                  | yes, except toolhead wiring             |
 | Display                 | Yes, if its the monochrome              |
 | Raspberry               | yes                                     |
