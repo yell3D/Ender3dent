@@ -54,6 +54,13 @@ Example 3:
 
 Please notice that same motion stepper should share the same mcu.
 
+### The Frame
+Make sure to:
+
+* NOT buy V-Slot, as the MGN9 rails don't sit tightly on them.
+* NOT buy Slot 5, aka ITEM (they need smaller alignment studs on printed parts and different rolling nuts).
+* Pre-drill and pre-tap are expensive and not hard to do on your own.
+* Buy Misumi or Bosch B-Type.
 
 
 ### When coming from a Enderwire
