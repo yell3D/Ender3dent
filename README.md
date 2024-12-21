@@ -140,6 +140,9 @@ If you absolutely must, then feel free to apply the principal of stuffing Ender 
 
 https://github.com/OneHotTake/EndeVOR-2.4
 
+## frigg 3d printers gimma something real
+
+https://github.com/Futtawuh/EnderCNC
 
 ## FAQ
 
