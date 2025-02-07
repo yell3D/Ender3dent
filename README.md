@@ -142,7 +142,8 @@ https://github.com/OneHotTake/EndeVOR-2.4
 
 ## frigg 3d printers gimma something real
 
-https://github.com/Futtawuh/EnderCNC
+* https://github.com/Futtawuh/EnderCNC
+* https://github.com/I-M-Robotics-Lab/Ender3-CNC
 
 ## FAQ
 
