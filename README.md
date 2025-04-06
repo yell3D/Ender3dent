@@ -157,8 +157,8 @@ https://github.com/OneHotTake/EndeVOR-2.4
 
 * Trident inverted Trident Inverted Electronics
     * https://mods.vorondesign.com/detail/pXkXHVIUbqSWqQKJISczw
-* Reusing leadscrew & coupler to not lose Z height
-    * https://www.printables.com/model/644553-trident-motor-spacer-standoffs-for-leadscrew-coupl
+* Reusing leadscrew & coupler to not lose Z height (update V2)
+    * https://www.printables.com/model/1255726-trident-motor-spacer-standoffs-for-leadscrew-coupl
 * Internal Spoolroller
     * https://www.printables.com/model/584995-internal-spoolholder-for-2020-extrusion
 
