@@ -168,28 +168,46 @@ https://github.com/OneHotTake/EndeVOR-2.4
 
 ### How it all started
 and why you should invest a minuscula amount of money for new extrusions
+
+VT.979 the original
 ![VT.979 the original](/Gallery/vt.979_yell_pls_dont_buy_a_frame_kit_.jpg "VT.979 the original")
 
 ### Ender3dent
 > Fun fact 1111 & 1112 battled for the 1111 serial
 > technically 1112 is Voron Trident #1111 as they start from 0
 
+VT.1111 Kignis
 ![VT.1111 Kignis](/Gallery/vt.1111_kignis.jpg "VT.1111 Kignis")
+
+VT.1112 Yell
 ![VT.1112 Yell](/Gallery/vt.1112_yell.jpg "VT.1112 Yell")
+
+VT 1540 hanarius
 ![vt.1540 hanarius](/Gallery/vt.1540_hanarius.jpg "VT 1540 hanarius")
+
+VT.1583 Evidences
 ![VT.1583 Evidences](/Gallery/vt.1583_evidences.jpg "VT.1583 Evidences")
+
+VT.1759 Wallen
 ![VT.1741 ravenkeeper](/Gallery/vt.1759_wallen.jpg "VT.1759 Wallen")
+
+VT 1816 hanarius
 ![vt.1816 hanarius](/Gallery/vt.1816_hanarius.jpg "VT 1816 hanarius")
+
+Smoll 200 frame by Chaos
 ![vt.xxxx_chaos](/Gallery/vt.xxxx_chaos.jpg "Smoll 200 frame by Chaos")
 
+
 ### Ender4dent
+VT.1741 ravenkeeper
 ![VT.1741 ravenkeeper](/Gallery/vt.1741_ravenkeeper.jpg "VT.1741 ravenkeeper")
 
 ### Ender5dent
 build it and DM me on discord °~°
 
 ### Ender6dent
-![VT.1233 Coursin](/Gallery/vt.1233_coursin.jpg "VT.1233 Coursin")
+VT.1233 cousin
+![VT.1233 Coursin](/Gallery/vt.1233_cousin.jpg "VT.1233 cousin")
 
 ### Other relevant images
 Ender3dent with mgn12 aka Enderwire to Ender3dent conversion showing the need for thicker foam (weather stripes in this case)
