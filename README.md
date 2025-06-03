@@ -182,8 +182,8 @@ VT.1111 Kignis
 VT.1112 Yell
 ![VT.1112 Yell](/Gallery/vt.1112_yell.jpg "VT.1112 Yell")
 
-VT 1540 hanarius
-![vt.1540 hanarius](/Gallery/vt.1540_hanarius.jpg "VT 1540 hanarius")
+VT.1540 hanarius
+![vt.1540 hanarius](/Gallery/vt.1540_hanarius.jpg "VT.1540 hanarius")
 
 VT.1583 Evidences
 ![VT.1583 Evidences](/Gallery/vt.1583_evidences.jpg "VT.1583 Evidences")
@@ -191,11 +191,11 @@ VT.1583 Evidences
 VT.1759 Wallen
 ![VT.1741 ravenkeeper](/Gallery/vt.1759_wallen.jpg "VT.1759 Wallen")
 
-VT 1816 hanarius
-![vt.1816 hanarius](/Gallery/vt.1816_hanarius.jpg "VT 1816 hanarius")
+VT.1816 hanarius
+![vt.1816 hanarius](/Gallery/vt.1816_hanarius.jpg "VT.1816 hanarius")
 
-Smoll 200 frame by Chaos
-![vt.xxxx_chaos](/Gallery/vt.xxxx_chaos.jpg "Smoll 200 frame by Chaos")
+VT.2002 Chaos (Smoll 200 Frame)
+![vt.2002_chaos](/Gallery/vt.2002_chaos.jpg "vt.2002_chaos")
 
 
 ### Ender4dent
