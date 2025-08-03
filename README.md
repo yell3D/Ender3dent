@@ -127,6 +127,7 @@ Building an Enderwire with Siboor kit instead of a Trident
     * finished plates /parts can slowly cooldown while printing the next
 * easier to tune, less belts to tension equally
 * static AB motors easy to extend with dampers, fans or replace for longer
+* [z_tilt_ng](https://docs.kalico.gg/Config_Reference.html#z_tilt_ng) on Kalico to automatically determines pivot positions for each Z stepper through iterative probing
 
 
 ### vs. Switchwire
