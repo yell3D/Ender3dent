@@ -128,6 +128,7 @@ Building an Enderwire with Siboor kit instead of a Trident
 * easier to tune, less belts to tension equally
 * static AB motors easy to extend with dampers, fans or replace for longer
 * [z_tilt_ng](https://docs.kalico.gg/Config_Reference.html#z_tilt_ng) on Kalico to automatically determines pivot positions for each Z stepper through iterative probing
+* with leadscrews you can turn the machine off and after a week the bed is stil perfectly level
 
 
 ### vs. Switchwire
