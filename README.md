@@ -116,8 +116,10 @@ Building an Enderwire with Siboor kit instead of a Trident
 * inverted electronics
 * shorter reverse bowden
 * fast preheating print area
-* over bed static fans (RSCD)
-* quick and easy underbed fan replacements
+* over bed AUX / static fans (RSCD)
+* plenty of space for space heater
+* quick and easy underbed fans
+* internal Spoolroller even with 260 bed inside a 250 frame
 * print on eye level, reduce back bending/pain
 * additional bottom storage when not printing near max Z
     * filament storage
@@ -125,7 +127,6 @@ Building an Enderwire with Siboor kit instead of a Trident
     * finished plates /parts can slowly cooldown while printing the next
 * easier to tune, less belts to tension equally
 * static AB motors easy to extend with dampers, fans or replace for longer
-* 250 build can have a internal Spoolroller even with 260 bed (see mods)
 
 
 ### vs. Switchwire
